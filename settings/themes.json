@@ -101,5 +101,17 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+  },
+  "Square with background image": {
+    "width": 800,
+    "height": 800,
+    "samplesPerFrame": 64,
+    "waveTop": 20,
+    "waveBottom": 300,
+    "captionTop": 340,
+    "captionLeft": 20,
+    "captionRight": 620,
+    "foregroundColor": "#0eb8ba",
+    "backgroundImage": "malelingue.png"
   }
 }
