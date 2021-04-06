@@ -114,7 +114,7 @@
     "captionRight": 610,
     "foregroundColor": "#FFFFFF",
     "captionFont": "300 52px 'Santral-Bold.ttf'",
-    "backgroundImage": "lafionda_audiogram.png"
+    "backgroundImage": "lafionda_audiogram_con_testo.png"
   },
     "Malelingue Sfigati con testo": {
     "width": 800,
@@ -128,32 +128,32 @@
     "captionRight": 610,
     "foregroundColor": "#000000",
     "captionFont": "300 52px 'Santral-Bold.ttf'",
-    "backgroundImage": "sfigati_audiogram.png"
+    "backgroundImage": "sfigati_audiogram_con_testo.png"
   },
-    "Malelingue Eqquindi": {
+    "Malelingue Eqquindi con testo": {
     "width": 800,
     "height": 800,
     "pattern": "wave",
     "samplesPerFrame": 64,
-    "waveTop": 260,
-    "waveBottom": 590,
+    "waveTop": 20,
+    "waveBottom": 320,
     "captionTop": 630,
     "captionLeft": 20,
     "captionRight": 610,
     "foregroundColor": "#000000",
     "captionFont": "300 52px 'Santral-Bold.ttf'",
-    "backgroundImage": "eqquindi_audiogram.png"
+    "backgroundImage": "eqquindi_audiogram_con_testo.png"
   },
-    "Malelingue Tremendo": {
+    "Malelingue Tremendo con testo": {
     "width": 800,
     "height": 800,
     "pattern": "wave",
     "samplesPerFrame": 64,
-    "waveTop": 260,
+    "waveTop": 270,
     "waveBottom": 590,
-    "captionTop": 630,
+    "captionTop": 600,
     "captionLeft": 20,
-    "captionRight": 610,
+    "captionRight": 770,
     "foregroundColor": "#000000",
     "captionFont": "300 52px 'Santral-Bold.ttf'",
     "backgroundImage": "tremendo_audiogram.png"
