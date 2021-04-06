@@ -102,7 +102,7 @@
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
   },
-  "Malelingue La Fionda": {
+  "Malelingue La Fionda con testo": {
     "width": 800,
     "height": 800,
     "pattern": "pixel",
@@ -116,7 +116,7 @@
     "captionFont": "300 52px 'Santral-Bold.ttf'",
     "backgroundImage": "lafionda_audiogram.png"
   },
-    "Malelingue Sfigati": {
+    "Malelingue Sfigati con testo": {
     "width": 800,
     "height": 800,
     "pattern": "wave",
